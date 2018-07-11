@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mycompany</groupId>
-	<artifactId>sampleproihukgyuk</artifactId>
+	<artifactId>sampleproject</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule</packaging>
 	<name>Mule sampleproject Application</name>
@@ -72,7 +72,7 @@
 					<username>venkatya3</username>
 					<password>Venkatya3</password>
 					<workerType>Micro</workerType>
-					<environment>DESIGN</environment>
+					<environment>Sandbox</environment>
 					<workers>1</workers>
 					<properties>
 						<mule.env>dev</mule.env>
