@@ -74,7 +74,7 @@
 					<workerType>Micro</workerType>
 					<environment>${anypoint.environment}</environment>
 					<domain>dmn</domain>
-					<applicationName>m123application</applicationName>
+					<applicationName>${anypoint.appname}</applicationName>
 					<workers>1</workers>
 					<properties>
 						<mule.env>dev</mule.env>
