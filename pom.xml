@@ -73,7 +73,8 @@
 					<password>Venkatya3</password>
 					<workerType>Micro</workerType>
 					<environment>${anypoint.environment}</environment>
-					<domain>${anypoint.domain}</domain>
+					<domain>dmn</domain>
+					<applicationName>my-application</applicationName>
 					<workers>1</workers>
 					<properties>
 						<mule.env>dev</mule.env>
