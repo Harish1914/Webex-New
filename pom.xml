@@ -72,7 +72,7 @@
 					<username>venkatya3</username>
 					<password>Venkatya3</password>
 					<workerType>Micro</workerType>
-					<environment>design</environment>
+					<environment>DESIGN</environment>
 					<workers>1</workers>
 					<properties>
 						<mule.env>dev</mule.env>
