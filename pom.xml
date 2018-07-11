@@ -74,6 +74,8 @@
 					<workerType>Micro</workerType>
 					<environment>${anypoint.environment}</environment>
 					
+					
+					
 					<applicationName>${anypoint.appname}</applicationName>
 					<workers>1</workers>
 					<properties>
