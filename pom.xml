@@ -72,10 +72,10 @@
 					<username>venkatya3</username>
 					<password>Venkatya3</password>
 					<workerType>Micro</workerType>
-					<environment>Sandbox</environment>
+					<environment>design</environment>
 					<workers>1</workers>
 					<properties>
-						<mule.env>Sandbox</mule.env>
+						<mule.env>dev</mule.env>
 						
 					</properties>
 
