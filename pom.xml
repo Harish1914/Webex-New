@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mycompany</groupId>
-	<artifactId>${anypoint.appname}</artifactId>
+	<artifactId>sampleproject</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule</packaging>
 	<name>Mule sampleproject Application</name>
@@ -73,6 +73,7 @@
 					<password>Venkatya3</password>
 					<workerType>Micro</workerType>
 					<environment>${anypoint.environment}</environment>
+					<domain>sampleprojectdomain</domain>
 					<workers>1</workers>
 					<properties>
 						<mule.env>dev</mule.env>
