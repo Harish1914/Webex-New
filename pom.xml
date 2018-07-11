@@ -73,7 +73,7 @@
 					<password>Venkatya3</password>
 					<workerType>Micro</workerType>
 					<environment>${anypoint.environment}</environment>
-					<domain>sampleprojectdomain</domain>
+					<domain>${anypoint.domain}</domain>
 					<workers>1</workers>
 					<properties>
 						<mule.env>dev</mule.env>
